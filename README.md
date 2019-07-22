@@ -279,8 +279,8 @@ pull request!
 From the master branch, run:
 
 - `git push origin master`
-- Go to your forked repo (the url will look something like 
-  `http://github.com/< your GitHub username>/git-merge-conflicts-<your semester name>`, 
+- Go to your forked repo (the url will look something like
+  `http://github.com/< your GitHub username>/git-merge-conflicts-<your semester name>`,
   but you can also get there by going to your GitHub account and clicking on `repos`)
 - Click on the green pull request button, add a title, a description if you'd
   like, and click "submit pull request"
